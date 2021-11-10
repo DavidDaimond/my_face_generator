@@ -5,6 +5,5 @@ In this rep I am making model, that will generate my face. Now I tested VAE, the
 
 ### VAE results you can look in IPython notebook [a relative link](VAE_fitting.ipynb).
 ### VAE Examples:
-![alt text](https://github.com/DavidDaimond/my_face_generator/blob/master/VAE_results/1.jpg)
 ![alt text](https://github.com/DavidDaimond/my_face_generator/blob/master/VAE_results/2.jpg)
 ![alt text](https://github.com/DavidDaimond/my_face_generator/blob/master/VAE_results/3.jpg)
