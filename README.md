@@ -7,3 +7,10 @@ In this rep I am making model, that will generate my face. Now I tested VAE, the
 ### VAE Examples:
 ![alt text](https://github.com/DavidDaimond/my_face_generator/blob/master/VAE_results/2.jpg)
 ![alt text](https://github.com/DavidDaimond/my_face_generator/blob/master/VAE_results/3.jpg)
+
+### StyleGAN2 results you can look in [this notebook](StyleGAN fitting.ipynb)
+### StyleGAN2 Examples:
+![alt text](https://github.com/DavidDaimond/my_face_generator/blob/master/StyleGAN_results/seed0001.png)
+![alt text](https://github.com/DavidDaimond/my_face_generator/blob/master/StyleGAN_results/seed0002.png)
+![alt text](https://github.com/DavidDaimond/my_face_generator/blob/master/StyleGAN_results/seed0003.png)
+![alt text](https://github.com/DavidDaimond/my_face_generator/blob/master/StyleGAN_results/seed12341241.png)
