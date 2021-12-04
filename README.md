@@ -14,3 +14,5 @@ In this rep I am making model, that will generate my face. Now I tested VAE, the
 ![alt text](https://github.com/DavidDaimond/my_face_generator/blob/master/StyleGAN_results/seed0002.png)
 ![alt text](https://github.com/DavidDaimond/my_face_generator/blob/master/StyleGAN_results/seed0003.png)
 ![alt text](https://github.com/DavidDaimond/my_face_generator/blob/master/StyleGAN_results/seed12341241.png)
+![alt text](https://github.com/DavidDaimond/my_face_generator/blob/master/StyleGAN_results/seed1991.png)
+![alt text](https://github.com/DavidDaimond/my_face_generator/blob/master/StyleGAN_results/seed0777.png)
